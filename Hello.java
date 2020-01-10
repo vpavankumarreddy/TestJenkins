@@ -1,5 +1,5 @@
 class Hello{
-Public Static void main(String args[])
+public static void main(String args[])
 {
 System.out.println("Executed at "+new java.util.Date());
 }
